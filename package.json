@@ -1,0 +1,14 @@
+{
+  "name": "my-wx",
+  "version": "1.0.0",
+  "description": "小程序快速启动模板。 # miniprogram-cli [https://github.com/wechat-miniprogram/miniprogram-cli] * npm i -g @wechat-miniprogram/miniprogram-cli * miniprogram init -n my-wx（文件名）",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-base64": "^2.5.1"
+  }
+}
