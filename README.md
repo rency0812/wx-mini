@@ -1,7 +1,7 @@
 # miniprogram-quickstart
 
 小程序快速启动模板。
-# miniprogram-cli [https://github.com/wechat-miniprogram/miniprogram-cli]
+- [miniprogram-cli](https://github.com/wechat-miniprogram/miniprogram-cli)
 * npm i -g @wechat-miniprogram/miniprogram-cli
 * miniprogram init -n my-wx（文件名）
 
