@@ -6,7 +6,7 @@
 * miniprogram init -n my-wx（文件名）
 
 # 使用npm第三方包
-* (初始化package.json) > npm init
+* project dir(项目目录) > npm init (初始化package.json)
 * npm install --production [npm包名]
 * 微信开发者工具 > 工具 > 构建npm;
 * 启用npm模块
